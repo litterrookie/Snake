@@ -1,2 +1,4 @@
 E:\程序设计综合课程设计任务及指导学生包\软件工程\tem\Debug\tem.exe
 E:\程序设计综合课程设计任务及指导学生包\软件工程\tem\Debug\tem.pdb
+E:\程序设计综合课程设计任务及指导学生包\新建文件夹\Snake\软件工程\tem\Debug\tem.exe
+E:\程序设计综合课程设计任务及指导学生包\新建文件夹\Snake\软件工程\tem\Debug\tem.pdb
